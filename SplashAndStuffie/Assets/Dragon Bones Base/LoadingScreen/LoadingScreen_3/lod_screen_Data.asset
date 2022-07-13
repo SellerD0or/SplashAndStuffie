@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: lod_screen_Data
+  m_EditorClassIdentifier: 
+  dataName: lod_screen
+  dragonBonesJSON: {fileID: 4900000, guid: 121ef826a87f0534fa4609b65f146aca, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 35a688a48e5d10948a5087a15ee3bc6f, type: 3}
+    texture: {fileID: 2800000, guid: f660181bad36a784dad2df9fc1eeea77, type: 3}
+    material: {fileID: 2100000, guid: 757fa0ee5ffda05429fad3d3e382e5ac, type: 2}
+    uiMaterial: {fileID: 0}
+  - textureAtlasJSON: {fileID: 4900000, guid: 1a72fdda07cbafe4e8c65ddbdd45bad7, type: 3}
+    texture: {fileID: 2800000, guid: 1e130c0b34116b648b5382f9cbb32ec4, type: 3}
+    material: {fileID: 2100000, guid: ebc16311309058843b8b9f949e20b17f, type: 2}
+    uiMaterial: {fileID: 0}
+  - textureAtlasJSON: {fileID: 4900000, guid: d31723d6b48a9ec4f8e51c6000a11019, type: 3}
+    texture: {fileID: 2800000, guid: 41fed857cb4f3f547ad389d8d695cf30, type: 3}
+    material: {fileID: 2100000, guid: 30ab5b86b22e27a49a6f77606070a63d, type: 2}
+    uiMaterial: {fileID: 0}
+  - textureAtlasJSON: {fileID: 4900000, guid: cd65d35d1dd54fb419888a8e5977070b, type: 3}
+    texture: {fileID: 2800000, guid: fa098f1bdbc4d634489872732573103a, type: 3}
+    material: {fileID: 2100000, guid: e75071877aab4a648ac6d7437388523b, type: 2}
+    uiMaterial: {fileID: 0}

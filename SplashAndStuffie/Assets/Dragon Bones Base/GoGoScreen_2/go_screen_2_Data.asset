@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: go_screen_2_Data
+  m_EditorClassIdentifier: 
+  dataName: go_screen_2
+  dragonBonesJSON: {fileID: 4900000, guid: d662b89c73425ef47b29c6ed991f1ced, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 1aa2d90289ab2a740a6ed814b32ca4b7, type: 3}
+    texture: {fileID: 2800000, guid: c8f1ec718f8f1b9479276d55c4f65d64, type: 3}
+    material: {fileID: 2100000, guid: c96e6956ae1cac14cba5a56ddedcac81, type: 2}
+    uiMaterial: {fileID: 0}

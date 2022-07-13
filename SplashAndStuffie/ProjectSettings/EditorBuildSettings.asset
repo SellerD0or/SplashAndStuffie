@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: b2fa74032bdc2d242a62df45e9591c80
+  - enabled: 1
+    path: Assets/Scenes/Education.unity
+    guid: 7f4bc9ad97bd6504bb54ea09f79b9124
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: c29c4122b288c694eabd145102c5dfab
+  - enabled: 1
+    path: Assets/Scenes/GameInventory.unity
+    guid: e03b2f38bf1509c4cb095f62ee48bc87
+  - enabled: 1
+    path: Assets/Scenes/GetterEntity.unity
+    guid: 59e3d28d5ea0cfd4c85af0ce615e4031
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 23abd001939993f4f98cc8587caa22ec
+  - enabled: 1
+    path: Assets/Scenes/SelectCharacter.unity
+    guid: e4bac46b220a01d4985d2031c95a5605
+  - enabled: 1
+    path: Assets/Scenes/SelectLevel.unity
+    guid: de25ed2db28e3ac4787a73ee43ae0e71
+  - enabled: 1
+    path: Assets/Scenes/OtisShop.unity
+    guid: 9f0d6bb31ab46c9429abd9a1fa647a9d
+  - enabled: 1
+    path: Assets/Scenes/FreeModeScene/FreeModeScene.unity
+    guid: a088d16cde3f1e74a83f61e3e1ba0c58
+  - enabled: 1
+    path: Assets/Scenes/SavedSlots.unity
+    guid: 62959e73fff2250409aac53efb1037ff
+  - enabled: 1
+    path: Assets/Scenes/TestArena.unity
+    guid: 2dcc2ea4b7cfafa4e87378628fc05023
+  - enabled: 1
+    path: Assets/Scenes/Online/OnlineLoadingScene.unity
+    guid: 752948d20ec2f2444bba93280152ca41
+  - enabled: 1
+    path: Assets/Scenes/Online/OnlineLobby.unity
+    guid: 5a398f4f9f8da6a4b93677f755bf3dda
+  - enabled: 1
+    path: Assets/Scenes/Online/OnlineMode.unity
+    guid: 77a96077a7ac86e45a278458e3113a6f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

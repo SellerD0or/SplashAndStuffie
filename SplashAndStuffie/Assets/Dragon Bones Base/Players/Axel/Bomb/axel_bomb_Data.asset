@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: axel_bomb_Data
+  m_EditorClassIdentifier: 
+  dataName: axel_bomb
+  dragonBonesJSON: {fileID: 4900000, guid: 4d207e73fbf74294b87992f5774fe25d, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 9447cbfe7b06b194eabe2c34bd188839, type: 3}
+    texture: {fileID: 2800000, guid: 75fabd3b9b59aa74299b4096582c10be, type: 3}
+    material: {fileID: 2100000, guid: 4271c31571ea87f4fb823789855df65b, type: 2}
+    uiMaterial: {fileID: 0}

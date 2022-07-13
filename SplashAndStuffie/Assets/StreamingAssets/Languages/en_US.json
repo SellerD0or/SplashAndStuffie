@@ -1,0 +1,403 @@
+{
+"items" : [ 
+    {
+   "key": "PAY",
+   "value": "PAY"
+    }
+    ,
+    {
+    "key": "MUSIC",
+   "value": "MUSIC"
+    },
+    {
+       "key": "SOUND EFFECTS",
+      "value": "SOUND EFFECTS"
+     },
+     {
+       "key": "SETTINGS",
+      "value": "SETTINGS"
+     },
+     {
+     "key": "Well Well Well… New test subjects. Z№1414 and F№246 are finally received. The condition is stable, but…",
+    "value": "Well Well Well… New test subjects. Z№1414 and F№246 are finally received. The condition is stable, but…"
+     },
+     {
+        "key": "Who will be the first test subject? Hmm... I need to strain my molecules and gurgle!",
+       "value": "Who will be the first test subject? Hmm... I need to strain my molecules and gurgle!"
+      },
+      {
+        "key": "Excellent, suitable for the role of the first test subject. I just need to turn on the testerbox and run the research!",
+       "value": "Excellent, suitable for the role of the first test subject. I just need to turn on the testerbox and run the research"
+      },
+      {
+         "key": "CHOOSE A TEST SUBJECT",
+        "value": "CHOOSE A TEST SUBJECT"
+       },
+      {
+         "key": "Blast Kolb in, your activity is illegal, we have suspended you from research and you have no right to experiments of this kind.  We have to arrest you!",
+        "value": "Blast Kolb in, your activity is illegal, we have suspended you from research and you have no right to experiments of this kind.  We have to arrest you!"
+       },
+       {
+          "key": "Hexel? I can't believe it! How did the council find out my coordinates???",
+         "value": "Hexel? I can't believe it! How did the council find out my coordinates???"
+        },
+       {
+          "key": "I can't stand this situation even with my guns, they're not warmed up.",
+         "value": "I can't stand this situation even with my guns, they're not warmed up."
+        },
+    {
+       "key": "I'll have to improvise.I'll drop the load and try to get away from these layabouts.",
+      "value": "I'll have to improvise.I'll drop the load and try to get away from these layabouts."
+     },
+    {
+       "key": "Warning before the evacuation of the test subjects is left:",
+      "value": "Warning before the evacuation of the test subjects is left:"
+     },
+    {
+       "key": "Do you want to cancel? You can't:)",
+      "value": "Do you want to cancel? You can't:)"
+     },
+     {
+        "key": "OK",
+       "value": "OK"
+      },
+      {
+        "key": "BLAST",
+       "value": "BLAST"
+      },
+      {
+         "key": "HEXEL",
+        "value": "HEXEL"
+       },
+      {
+         "key": "© ALL RIGHTS RESERVED",
+        "value": "© ALL RIGHTS RESERVED"
+       },
+       {
+          "key": "Aki",
+         "value": "Aki"
+        },
+     {
+        "key": "Splash",
+       "value": "Splash"
+      },
+      {
+        "key": "Stuffie",
+       "value": "Stuffie"
+      },
+      {
+         "key": "Ezra",
+        "value": "Ezra"
+       },
+      {
+         "key": "Yoong",
+        "value": "Yoong"
+       },
+       {
+          "key": "Spire",
+         "value": "Spire"
+        },
+      {
+         "key": "Tao",
+        "value": "Tao"
+       },
+      {
+         "key": "Axel",
+        "value": "Axel"
+       },
+       {
+          "key": "Bomber",
+         "value": "Bomber"
+        },
+       {
+          "key": "ADD",
+         "value": "ADD"
+        },
+        {
+            "key": "CHOOSE A TRAVELER",
+            "value": "CHOOSE A TRAVELER"
+        },
+        {
+            "key": "READY",
+            "value": "READY"
+        }
+        ,
+       {
+          "key": "START",
+         "value": "START"
+        },
+        {
+            "key": "ENTER",
+            "value": "ENTER"
+        }
+        ,
+       {
+          "key": "A cute spherical creature capable of regenerating its two appendages resembling ears with tremendous speed.",
+         "value": "A cute spherical creature capable of regenerating its two appendages resembling ears with tremendous speed."
+        },
+        {
+            "key": "One of Kolbin's favorites is equipped with a unique Blast development called \"flying bucket\".",
+            "value": "One of Kolbin's favorites is equipped with a unique Blast development called \"flying bucket\"."
+        },
+        {
+            "key": "One of Kolbin's favorites has a large amount of body weight.",
+            "value": "One of Kolbin's favorites has a large amount of body weight."
+        }
+        ,
+       {
+          "key": "The mummy walked slowly, as a result of which she was very sad and the scientist put a mystical hat on her to speed up movement.",
+         "value": "The mummy walked slowly, as a result of which she was very sad and the scientist put a mystical hat on her to speed up movement."
+        },
+        {
+            "key": "This experiment was fed with the milk of a space cow and she grew huge fangs with which she likes to bite everyone.",
+            "value": "This experiment was fed with the milk of a space cow and she grew huge fangs with which she likes to bite everyone."
+        },
+       {
+          "key": "One of the subjects disappeared as a result of an accident, and a clot of an unknown substance, similar to a ghost, formed in his place.",
+         "value": "One of the subjects disappeared as a result of an accident, and a clot of an unknown substance, similar to a ghost, formed in his place."
+        },
+        {
+            "key": "A robot assembled by Kolbin from parts and spare parts lying in a container that the scientist privatized to himself.",
+            "value": "A robot assembled by Kolbin from parts and spare parts lying in a container that the scientist privatized to himself."
+        },
+        {
+            "key": "А spirit transmigrated into a mushroom who wants to help others.",
+            "value": "А spirit transmigrated into a mushroom who wants to help others."
+        }
+        ,
+       {
+          "key": "Where did he come from?",
+         "value": "Where did he come from?"
+        },
+      {
+         "key": "Balance medal",
+        "value": "Balance medal"
+       },
+       {
+          "key": "Quatrefoil",
+         "value": "Quatrefoil"
+        },
+       {
+          "key": "The vessel of life",
+         "value": "The vessel of life"
+        },
+        {
+            "key": "The divine rod",
+            "value": "The divine rod"
+        },
+        {
+            "key": "The eye of darkness",
+            "value": "The eye of darkness"
+        }
+        ,
+       {
+          "key": "Family value",
+         "value": "Family value"
+        },
+        {
+            "key": "Gentle balsam",
+            "value": "Gentle balsam"
+        },
+        {
+            "key": "Cool temptation",
+            "value": "Cool temptation"
+        },
+        {
+            "key": "relics",
+            "value": "RELICS"
+        }
+        ,
+        {
+            "key": "Dough happiness",
+            "value": "Dough happiness"
+        },
+        {
+            "key": "Rose-colored glasses",
+            "value": "Rose-colored glasses"
+        }
+        ,
+       {
+          "key": "LOG IN",
+         "value": "LOG IN"
+        },
+      {
+         "key": "SIGN UP",
+        "value": "SIGN UP"
+       },
+       {
+          "key": "Email",
+         "value": "Email"
+        },
+       {
+          "key": "Nick Name",
+         "value": "Nick Name"
+        },
+        {
+            "key": "Password",
+            "value": "Password"
+        },
+        {
+            "key": "LOG IN / SIGN UP",
+            "value": "LOG IN / SIGN UP"
+        }
+        ,
+       {
+          "key": "Aleady have an account?",
+         "value": "Aleady have an account?"
+        },
+        {
+            "key": "Forget Password?",
+            "value": "Forget Password?"
+        }
+        ,
+        {
+            "key": "RESET PASSWORD",
+            "value": "RESET PASSWORD?"
+        }
+        ,
+        {
+            "key": "SIGN OUT",
+            "value": "SIGN OUT"
+        }
+        ,
+        {
+            "key": "Registration successful",
+            "value": "Registration successful"
+        }
+        ,
+        {
+            "key": "Registration failed",
+            "value": "Registration failed"
+        }
+        ,
+        {
+            "key": "Authorization successful",
+            "value": "Authorization successful"
+        }
+        ,
+        {
+            "key": "Authorization failed",
+            "value": "Authorization failed"
+        }
+        ,
+        {
+            "key": "CHOOSE SAVE",
+            "value": "CHOOSE SAVE"
+        }
+        ,
+        {
+            "key": "Are you sure you want to delete your save?",
+            "value": "Are you sure you want to delete your save?"
+        }
+        ,
+        {
+            "key": "Do you want to quit the game?",
+            "value": "Do you want to quit the game?"
+        },
+        {
+        "key": "Flying Saucer",
+        "value": "Flying Saucer"
+        },
+        {
+        "key": "Stomping beauty",
+        "value": "Stomping beauty"
+        },
+        {
+         "key": "The animated hat",
+        "value": "The animated hat"
+        },
+        {
+        "key": "A lover of jumping",
+       "value": "A lover of jumping"
+        },
+        {
+        "key": "The Screaming Ghost",
+        "value": "The Screaming Ghost"
+        },
+        {
+         "key": "Spewing flames",
+        "value": "Spewing flames"
+        },
+        {
+        "key": "A bunch of gears",
+        "value": "A bunch of gears"
+        },
+        {
+        "key": "Magic Mushroom",
+        "value": "Magic Mushroom"
+        },
+        {
+        "key": "A sharpshooter",
+        "value": "A sharpshooter"
+       }
+       ,
+        {
+        "key": "OPENING SOON! WE ARE WAITING FOR YOU LATER!",
+        "value": "OPENING SOON! WE ARE WAITING FOR YOU LATER!"
+       }
+       ,
+       {
+       "key": "Exit the menu",
+       "value": "Exit the menu"
+      }
+      ,
+      {
+      "key": "BREAK UP A CLUSTER OF ENEMIES",
+      "value": "BREAK UP A CLUSTER OF ENEMIES"
+     }
+     ,
+     {
+     "key": "DO NOT LET OUTSIDERS INTO THE PROCESS!",
+     "value": "DO NOT LET OUTSIDERS INTO THE PROCESS!"
+    }
+    ,
+    {
+    "key": "1 CHAPTER",
+    "value": "1 CHAPTER"
+   }
+   ,
+     {
+     "key": "PROLOGUE PASSED",
+     "value": "PROLOGUE PASSED"
+    }
+    ,
+    {
+    "key": "THE PROLOGUE IS NOT STARTED",
+    "value": "THE PROLOGUE IS NOT STARTED"
+   }
+   ,
+   {
+   "key": "SAVES",
+   "value": "SAVES"
+  }
+  ,
+  {
+  "key": "A NEW UPDATE HAS BEEN RELEASED",
+  "value": "A NEW UPDATE HAS BEEN RELEASED"
+ }
+ ,
+ {
+ "key": "UPDATE",
+ "value": "UPDATE"
+}
+,
+{
+"key": "UPDATE",
+"value": "UPDATE"
+},
+{
+    "key": "MOVIE CREDITS",
+    "value": "MOVIE CREDITS"
+}
+,
+{
+    "key": "PROGRAMMER:",
+    "value": "PROGRAMMER:"
+}
+,
+{
+    "key": "ARTIST:",
+    "value": "ARTIST:"
+}
+]
+}

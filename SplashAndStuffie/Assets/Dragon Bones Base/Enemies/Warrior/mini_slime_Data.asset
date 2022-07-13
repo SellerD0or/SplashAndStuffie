@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: mini_slime_Data
+  m_EditorClassIdentifier: 
+  dataName: mini_slime
+  dragonBonesJSON: {fileID: 4900000, guid: 9803158aec20ef843a464a5b4d373d36, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 19b650dbbd9147f47a3195b0c9fac9b8, type: 3}
+    texture: {fileID: 2800000, guid: b3b81905a510665479852edcab1ce261, type: 3}
+    material: {fileID: 2100000, guid: 0a73902d5009f0a49b62b421f1644750, type: 2}
+    uiMaterial: {fileID: 0}

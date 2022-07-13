@@ -1,0 +1,395 @@
+{
+    "items" : [ 
+ {
+"key": "PAY",
+"value": "ПОПЫТКА"
+ },
+ {
+ "key": "MUSIC",
+"value": "МУЗЫКА"
+ },
+ {
+    "key": "SOUND EFFECTS",
+   "value": "ЗВУКОВЫЕ ЭФФЕКТЫ"
+  },
+  {
+    "key": "SETTINGS",
+   "value": "НАСТРОЙКИ"
+  },
+  {
+  "key": "Well Well Well… New test subjects. Z№1414 and F№246 are finally received. The condition is stable, but…",
+ "value": "Так так так... Новые подопытные . З№1414 и Ф№246 наконец-то получены.Состояние стабильное, но…"
+  },
+  {
+     "key": "Who will be the first test subject? Hmm... I need to strain my molecules and gurgle!",
+    "value": "Кто же будет первым испытуемым? Хм… надо напрячь свои молекулы и побулькать!"
+   },
+   {
+     "key": "Excellent, suitable for the role of the first test subject. I just need to turn on the testerbox and run the research!",
+    "value": "Отлично, подходит на роль первого подопытного . Всего лишь нужно включить testerbox и запустить исследование!"
+   },
+   {
+      "key": "CHOOSE A TEST SUBJECT",
+     "value": "ВЫБЕРИ ПОДОПЫТНОГО"
+    },
+   {
+      "key": "Blast Kolb in, your activity is illegal, we have suspended you from research and you have no right to experiments of this kind.  We have to arrest you!",
+     "value": "Бласт Колбин, Ваша деятельность незаконна Мы отстранили Вас от исследований и Вы не имеете право на эксперименты такого рода. Мы вынуждены Вас арестовать! "
+    },
+    {
+       "key": "Hexel? I can't believe it! How did the council find out my coordinates???",
+      "value": "Ёксель - Гёксель, не могу поверить в это! Как совет узнал мои координаты???"
+     },
+    {
+       "key": "I can't stand this situation even with my guns, they're not warmed up.",
+      "value": "Я не выдержу такой ситуации даже с моими пушками, они не разогреты."
+     },
+ {
+    "key": "I'll have to improvise.I'll drop the load and try to get away from these layabouts.",
+   "value": "Придётся импровизировать. Скину груз и попробую удрать от этих дуриков."
+  },
+ {
+    "key": "Warning before the evacuation of the test subjects is left:",
+   "value": "Внимание до эвакуации подопытных осталось:"
+  },
+ {
+    "key": "Do you want to cancel? You can't:)",
+   "value": "Хотите отменить? Нельзя:))"
+  },
+  {
+     "key": "OK",
+    "value": "ОК"
+   },
+   {
+     "key": "BLAST",
+    "value": "БЛАСТ"
+   },
+   {
+      "key": "HEXEL",
+     "value": "Ёксель"
+    },
+    {
+       "key": "© ALL RIGHTS RESERVED",
+      "value": "© ВСЕ ПРАВА ЗАЩИЩЕНЫ"
+     },
+       {
+          "key": "Aki",
+         "value": "Аки"
+        },
+     {
+        "key": "Splash",
+       "value": "Сплеш"
+      },
+      {
+        "key": "Stuffie",
+       "value": "Стаффи"
+      },
+      {
+         "key": "Ezra",
+        "value": "Эзра"
+       },
+      {
+         "key": "Yoong",
+        "value": "Йонг"
+       },
+       {
+          "key": "Spire",
+         "value": "Шипастик"
+        },
+      {
+         "key": "Tao",
+        "value": "Тао"
+       },
+      {
+         "key": "Axel",
+        "value": "Аксель"
+       },
+       {
+          "key": "Bomber",
+         "value": "Бомбер"
+        },
+        {
+           "key": "ADD",
+          "value": "ДОБАВИТЬ"
+         },
+         {
+             "key": "CHOOSE A TRAVELER",
+             "value": "ВЫБРАТЬ ПУТЕШЕСТВЕННИКА"
+         },
+         {
+             "key": "READY",
+             "value": "ГОТОВ"
+         },
+         {
+            "key": "START",
+           "value": "ЗАВЕСТИ"
+          },
+          {
+              "key": "ENTER",
+              "value": "ЗАЙТИ"
+          },
+       {
+          "key": "A cute spherical creature capable of regenerating its two appendages resembling ears with tremendous speed.",
+         "value": "Симпатичное сферическое существо, способное с огромной скоростью регенерировать два своих придатка, напоминающих уши."
+        },
+        {
+            "key": "One of Kolbin's favorites is equipped with a unique Blast development called \"flying bucket\".",
+            "value": "Один из любимчиков Колбина оснащен уникальной разработкой под названием \"летающее ведро\"."
+        },
+        {
+            "key": "One of Kolbin's favorites has a large amount of body weight.",
+            "value": "Один из фаворитов Колбина имеет большой вес тела."
+        }
+        ,
+       {
+          "key": "The mummy walked slowly, as a result of which she was very sad and the scientist put a mystical hat on her to speed up movement.",
+         "value": "Эта мумия ходила медленно, в результате чего ей было очень грустно, и ученый надел на нее мистическую шляпу, чтобы ускорить её передвижение.."
+        },
+        {
+            "key": "This experiment was fed with the milk of a space cow and she grew huge fangs with which she likes to bite everyone.",
+            "value": "Эксперимент был вскормлен молоком космической коровы, и у нее выросли огромные клыки, которыми она любит кусать всех подряд."
+        },
+       {
+          "key": "One of the subjects disappeared as a result of an accident, and a clot of an unknown substance, similar to a ghost, formed in his place.",
+         "value": "Один из испытуемых исчез в результате несчастного случая, и на его месте образовался сгусток неизвестного вещества, похожий на призрака."
+        },
+        {
+            "key": "A robot assembled by Kolbin from parts and spare parts lying in a container that the scientist privatized to himself.",
+            "value": "Робот, собранный Колбиным из деталей и запасных частей, лежащих в контейнере, который ученый приватизировал себе."
+        },
+        {
+            "key": "А spirit transmigrated into a mushroom who wants to help others.",
+            "value": "Дух переселившийся в гриб желающий помогать другим."
+        }
+        ,
+       {
+          "key": "Where did he come from?",
+         "value": "Откуда он взялся?"
+        }
+        ,
+        {
+           "key": "Balance medal",
+          "value": "Медаль равновесия"
+         },
+         {
+            "key": "Quatrefoil",
+           "value": "Четырехлистник"
+          },
+         {
+            "key": "The vessel of life",
+           "value": "Сосуд жизни"
+          },
+          {
+              "key": "The divine rod",
+              "value": "Божественный жезл"
+          },
+          {
+              "key": "The eye of darkness",
+              "value": "Око тьмы"
+          }
+          ,
+         {
+            "key": "Family value",
+           "value": "Семейная ценность"
+          },
+          {
+              "key": "Gentle balsam",
+              "value": "Нежный бальзамин"
+          },
+          {
+              "key": "Cool temptation",
+              "value": "Прохладное искушение"
+          }
+          ,
+          {
+              "key": "Dough happiness",
+              "value": "Тесто счастья"
+          },
+          {
+              "key": "Rose-colored glasses",
+              "value": "Розовые очки"
+          }
+          ,
+        {
+            "key": "relics",
+            "value": "РЕЛИКВИИ"
+        }
+        ,
+        {
+           "key": "LOG IN",
+          "value": "ВОЙТИ В СИСТЕМУ"
+         },
+       {
+          "key": "SIGN UP",
+         "value": "СОЗДАТЬ УЧЕТНУЮ ЗАПИСЬ"
+        },
+        {
+           "key": "Email",
+          "value": "Электронная почта"
+         },
+        {
+           "key": "Nick Name",
+          "value": "Имя пользователя"
+         },
+         {
+             "key": "Password",
+             "value": "Пароль"
+         },
+         {
+             "key": "LOG IN / SIGN UP",
+             "value": "ВОЙТИ В СИСТЕМУ / СОЗДАТЬ УЧЕТНАЯ ЗАПИСЬ"
+         }
+         ,
+        {
+           "key": "Aleady have an account?",
+          "value": "У вас уже есть учетная запись?"
+         },
+         {
+             "key": "Forget Password?",
+             "value": "Забыли пароль?"
+         }
+         ,
+         {
+             "key": "RESET PASSWORD",
+             "value": "СБРОС ПАРОЛЯ"
+         }
+         ,
+         {
+             "key": "SIGN OUT",
+             "value": "ВЫХОД ИЗ УЧЁТНОЙ ЗАПИСИ"
+         }
+         ,
+        {
+            "key": "Registration successful",
+            "value": "РЕГИСТРАЦИЯ ПРОШЛА УСПЕШНА"
+        }
+        ,
+        {
+            "key": "Registration failed",
+            "value": "ЧТО - ТО ПОШЛО НЕ ТАК ПРИ ПОПЫТКЕ РЕГИСТРАЦИИ"
+        }
+        ,
+        {
+            "key": "Authorization successful",
+            "value": "АВТОРИЗАЦИЯ ПРОШЛА УСПЕШНА"
+        }
+        ,
+        {
+            "key": "Authorization failed",
+            "value": "ЧТО - ТО ПОШЛО НЕ ТАК ПРИ ПОПЫТКЕ АВТОРИЗАЦИИ"
+        }
+        ,
+        {
+            "key": "CHOOSE SAVE",
+            "value": "ВЫБРАТЬ СОХРАНЕНИЕ"
+        }
+        ,
+        {
+            "key": "Are you sure you want to delete your save?",
+            "value": "Вы точно хотите удалить ваше сохранение?"
+        }
+        ,
+        {
+            "key": "Do you want to quit the game?",
+            "value": "Вы хотите выйти из игры?"
+        },
+        {
+        "key": "Flying Saucer",
+        "value": "Летающая тарелка"
+        },
+        {
+        "key": "Stomping beauty",
+        "value": "Топающая красавица"
+        },
+        {
+         "key": "The animated hat",
+        "value": "Ожившая шляпа"
+        },
+        {
+        "key": "A lover of jumping",
+       "value": "Любитель прыгать"
+        },
+        {
+        "key": "The Screaming Ghost",
+        "value": "Кричащий призрак"
+        },
+        {
+         "key": "Spewing flames",
+        "value": "Извергающий пламенем"
+        },
+        {
+        "key": "A bunch of gears",
+        "value": "Куча шестерёнок"
+        },
+        {
+        "key": "Magic Mushroom",
+        "value": "Волшебный гриб"
+        },
+        {
+        "key": "A sharpshooter",
+        "value": "Меткий стрелок"
+       },
+       {
+       "key": "OPENING SOON! WE ARE WAITING FOR YOU LATER!",
+       "value": "СКОРО ОТКРЫТИЕ! ЖДЁМ ВАС ПОЗЖЕ!"
+      } ,
+      {
+      "key": "Exit the menu",
+      "value": "Выйти в меню"
+     }
+     ,
+     {
+     "key": "BREAK UP A CLUSTER OF ENEMIES",
+     "value": "РАЗБИТЬ СКОПЛЕНИЕ ВРАГОВ"
+    }
+    ,
+     {
+     "key": "DO NOT LET OUTSIDERS INTO THE PROCESS!",
+     "value": "НЕ ВПУСКАЙТЕ В ПРОЦЕСС ПОСТОРОННИХ!"
+    }
+    ,
+    {
+    "key": "1 CHAPTER",
+    "value": "1 ГЛАВА"
+   }
+   ,
+     {
+     "key": "PROLOGUE PASSED",
+     "value": "ПРОЛОГ ПРОЙДЕН"
+    }
+    ,
+    {
+    "key": "THE PROLOGUE IS NOT STARTED",
+    "value": "ПРОЛОГ НЕ НАЧАТ"
+   }
+   ,
+   {
+   "key": "SAVES",
+   "value": "СОХРАНЕНИЯ"
+  }
+  ,
+  {
+  "key": "A NEW UPDATE HAS BEEN RELEASED",
+  "value": "ВЫШЛО НОВОЕ ОБНОВЛЕНИЕ"
+ }
+ ,
+ {
+ "key": "UPDATE",
+ "value": "ОБНОВИТЬ"
+},
+{
+    "key": "MOVIE CREDITS",
+    "value": "ТИТРЫ"
+}
+,
+{
+    "key": "PROGRAMMER:",
+    "value": "ПРОГРАММИСТ:"
+}
+,
+{
+    "key": "ARTIST:",
+    "value": "ХУДОЖНИК:"
+}
+ ]
+}

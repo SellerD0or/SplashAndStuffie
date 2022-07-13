@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: lod_screen_Data
+  m_EditorClassIdentifier: 
+  dataName: lod_screen
+  dragonBonesJSON: {fileID: 4900000, guid: bdc505cb1bb1f124ebac9790b7fe72e5, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 4ee6e3a2a8e8559499fccfb2e21bffed, type: 3}
+    texture: {fileID: 2800000, guid: f676a95378bb7c343963c8b179d2703d, type: 3}
+    material: {fileID: 2100000, guid: b7e237eb94cca7a44a968b5aa09cc4ae, type: 2}
+    uiMaterial: {fileID: 0}
+  - textureAtlasJSON: {fileID: 4900000, guid: f3c24b3883b80a240991f8295672f4d0, type: 3}
+    texture: {fileID: 2800000, guid: 1bc0a68b9ec9f8146b080a8e3c876465, type: 3}
+    material: {fileID: 2100000, guid: 5cd1e1177228aa04fa94af5b56c8ce3c, type: 2}
+    uiMaterial: {fileID: 0}
+  - textureAtlasJSON: {fileID: 4900000, guid: 8247e213f844f384eb724914dffa5b1a, type: 3}
+    texture: {fileID: 2800000, guid: 2d3ab1f42489a254e9413cd3ffed78f4, type: 3}
+    material: {fileID: 2100000, guid: 74b9daac07831c6438109f72317a1a8e, type: 2}
+    uiMaterial: {fileID: 0}
+  - textureAtlasJSON: {fileID: 4900000, guid: a8f97c51e1cd54d47869d32510f1f2f4, type: 3}
+    texture: {fileID: 2800000, guid: d815fe5150b198f438f46620a92d3e66, type: 3}
+    material: {fileID: 2100000, guid: acae25f019e266344911189334769e2e, type: 2}
+    uiMaterial: {fileID: 0}
+  - textureAtlasJSON: {fileID: 4900000, guid: 5178d7f60fa293044b96f7a0bc99480e, type: 3}
+    texture: {fileID: 2800000, guid: 92bdae088367d8141a1a5418e048ac6a, type: 3}
+    material: {fileID: 2100000, guid: 4e81cba680f49704bb42098152a4cb02, type: 2}
+    uiMaterial: {fileID: 0}
+  - textureAtlasJSON: {fileID: 4900000, guid: 44983f6bbf14ce24eb20f5c66bb04342, type: 3}
+    texture: {fileID: 2800000, guid: 5647cd1d9f2bbe240b8b13e276e83553, type: 3}
+    material: {fileID: 2100000, guid: 19fbd1a36095b6c4ab374c9c505dcb8b, type: 2}
+    uiMaterial: {fileID: 0}
+  - textureAtlasJSON: {fileID: 4900000, guid: a41eb337d503d62409aa828cda498834, type: 3}
+    texture: {fileID: 2800000, guid: 4746386c8d7be9241b5bc49533ee70c0, type: 3}
+    material: {fileID: 2100000, guid: b514274d2cc2e1446ab75131a579c3f6, type: 2}
+    uiMaterial: {fileID: 0}

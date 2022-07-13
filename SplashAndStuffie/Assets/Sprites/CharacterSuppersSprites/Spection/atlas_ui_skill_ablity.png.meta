@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 76446de29814ac44bade038ffcd653e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6500136201669637333
+    second: atlas_ui_skill_ablity_0
+  - first:
+      213: 8114811254157639295
+    second: atlas_ui_skill_ablity_1
+  - first:
+      213: -3690790744971902130
+    second: atlas_ui_skill_ablity_2
+  - first:
+      213: -4111969340183546613
+    second: atlas_ui_skill_ablity_3
+  - first:
+      213: -1277553772554764444
+    second: atlas_ui_skill_ablity_4
+  - first:
+      213: 2723346225094548386
+    second: atlas_ui_skill_ablity_5
+  - first:
+      213: 4219073435467420400
+    second: atlas_ui_skill_ablity_6
+  - first:
+      213: -3929434453452238839
+    second: atlas_ui_skill_ablity_7
+  - first:
+      213: 4972512374273824713
+    second: atlas_ui_skill_ablity_8
+  - first:
+      213: -3042383621310851884
+    second: atlas_ui_skill_ablity_9
+  - first:
+      213: 1201826800317618817
+    second: atlas_ui_skill_ablity_10
+  - first:
+      213: -6178840515048152483
+    second: atlas_ui_skill_ablity_11
+  - first:
+      213: 1776945507415601882
+    second: atlas_ui_skill_ablity_12
+  - first:
+      213: -4715710305065119371
+    second: atlas_ui_skill_ablity_13
+  - first:
+      213: -2182258533934046540
+    second: atlas_ui_skill_ablity_14
+  - first:
+      213: -1960123223289411434
+    second: atlas_ui_skill_ablity_15
+  - first:
+      213: -6581590602151439459
+    second: atlas_ui_skill_ablity_16
+  - first:
+      213: 8861487024684424070
+    second: atlas_ui_skill_ablity_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4fc2caf6f153a50800000000000000
+      internalID: 6500136201669637333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 892
+        width: 142
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e786f67d99d9070800000000000000
+      internalID: 8114811254157639295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 872
+        width: 147
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4386a14f5da7ccc0800000000000000
+      internalID: -3690790744971902130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 952
+        width: 113
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05ff07dba95fe6c0800000000000000
+      internalID: -4111969340183546613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_4
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 896
+        width: 122
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fb965dc97354ee0800000000000000
+      internalID: -1277553772554764444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_5
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 905
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab592b76f44bc520800000000000000
+      internalID: 2723346225094548386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 897
+        width: 174
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2925a9fe82d8a30800000000000000
+      internalID: 4219073435467420400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 761
+        width: 127
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9005cc10f28d779c0800000000000000
+      internalID: -3929434453452238839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 761
+        width: 90
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c753dda8a9e10540800000000000000
+      internalID: 4972512374273824713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 756
+        width: 184
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4dc45373847c5d0800000000000000
+      internalID: -3042383621310851884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_10
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 768
+        width: 130
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ad97a7b1fbda010800000000000000
+      internalID: 1201826800317618817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_11
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 725
+        width: 168
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5263c8d949504aa0800000000000000
+      internalID: -6178840515048152483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_12
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 682
+        width: 179
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2bbba368af8a810800000000000000
+      internalID: 1776945507415601882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571d1f2667e6e8eb0800000000000000
+      internalID: -4715710305065119371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 552
+        width: 139
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2ebccec6f07b1e0800000000000000
+      internalID: -2182258533934046540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_15
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 586
+        width: 125
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69847d7405e3cc4e0800000000000000
+      internalID: -1960123223289411434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_16
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 509
+        width: 167
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93d6b5d73e79a4a0800000000000000
+      internalID: -6581590602151439459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_ui_skill_ablity_17
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 534
+        width: 183
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b5c00bf735afa70800000000000000
+      internalID: 8861487024684424070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
