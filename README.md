@@ -1,2 +1,2 @@
 # SplashAndStuffie
-Game.
+Rift Phase is a game that tells about the fates of two main characters: Stuffy and Splash. In this game, the player has two modes available. In the first, he needs to clear waves of opponents, where the player must choose a combination of three monsters. At the same time, each monster is unique, it has its own attack mechanics, special abilities. In the second mode, the player must place monsters on the field to destroy enemies. Here the player does not directly control the entities, he only releases them to the right place. The game is in alpha version.
